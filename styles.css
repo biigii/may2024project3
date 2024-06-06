@@ -1,9 +1,27 @@
+/* type selector */
 /* h1 {
-    font-size: 16px;
-    font-weight: normal;
+    color: red;
+} */
+
+/* class selector */
+/* .site-heading {
+    color: red;
+} */
+
+#some-id {
+  background-color: lightcoral;
 }
 
-p {
-    font-size: 32px;
-    font-weight: bold;
-} */
+#sub-heading {
+    background-color: lightgreen;
+    color: darkgreen
+}
+
+.text {
+    /* some styling */
+}
+
+#text {
+    background-color: orange;
+    color: lightskyblue
+}
