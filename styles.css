@@ -1,5 +1,48 @@
+/* h1 {
+    color: red;
+    text-align: center;
+} */
+
 /* type selector */
-button {
-    background-color: darkred;
+/* p {
+    background-color: yellow;
+    color: darkred
+} */
+
+/* class selector and id selector */
+
+/* class selector */
+/* h1 {
+    color: red;
+    background-color: lightsalmon;
+} */
+
+.something {
+  color: red;
+  background-color: lightsalmon;
+  text-align: center;
+}
+
+.first-paragraph {
+  background-color: purple;
+  color: pink;
+}
+
+.another-paragraph {
+    background-color: lightpink;
+    color: brown;
+}
+
+.some-text {
+    background-color: orange;
     color: white
+}
+
+.first {
+  background-color: red;
+  font-size: 30px;
+}
+
+.paragraph {
+    color: lightgreen
 }
