@@ -1,48 +1,9 @@
 /* h1 {
-    color: red;
-    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 32px;
+    font-weight: bold;
 } */
-
-/* type selector */
-/* p {
-    background-color: yellow;
-    color: darkred
-} */
-
-/* class selector and id selector */
-
-/* class selector */
-/* h1 {
-    color: red;
-    background-color: lightsalmon;
-} */
-
-.something {
-  color: red;
-  background-color: lightsalmon;
-  text-align: center;
-}
-
-.first-paragraph {
-  background-color: purple;
-  color: pink;
-}
-
-.another-paragraph {
-    background-color: lightpink;
-    color: brown;
-}
-
-.some-text {
-    background-color: orange;
-    color: white
-}
-
-.first {
-  background-color: red;
-  font-size: 30px;
-}
-
-.paragraph {
-    color: lightgreen
-}
